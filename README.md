@@ -230,9 +230,8 @@ A mobile mood-tracking app that lets users log emotions, view trends, and reflec
 ---
 
 ## 🔗 Portfolio QR Code
-
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://rezonnn.github.io" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://rezonnn.github.io/portfolio/" />
 </p>
 
 ---
