@@ -1,91 +1,101 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Rezon Hansel Gautama 👋</h1>
-<h3 align="center">Data Science + Cognitive Science @ UC San Diego</h3>
-
+<!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Data+Scientist+in+Training;Full-Stack+Engineer;Machine+Learning+Enthusiast;Always+Building+and+Learning" />
+  <img src="https://i.imgur.com/7yZ7jE8.gif" width="100%" alt="animated galaxy banner">
+</p>
+
+<h1 align="center">✨ Rezon Hansel Gautama ✨</h1>
+<h3 align="center">Data Science + Software Engineering @ UC San Diego</h3>
+
+<!-- ANIMATED TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=700&lines=Data+Scientist+%F0%9F%94%AC;Software+Engineer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Always+Building%2C+Always+Learning+%F0%9F%8C%9F" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 UC San Diego Data Science student  
-- 💻 Building apps, dashboards, games, ML tools, and mobile apps  
-- 🧠 Skilled in Python, JS/TS, C++, Swift, Java, R, Rust, SQL, and more  
-- 🚀 Exploring full-stack SWE + ML engineering  
-- ⚡ Passionate about high-quality UI, data storytelling, and polished interactive projects  
+# 🌌 **About Me**
+- 🎓 UC San Diego Data Science Student  
+- 💻 Building full-stack web apps, ML tools, dashboards, mobile apps, & games  
+- 🌐 Skilled across Python, JavaScript/TS, C++, Swift, Java, Rust, R, SQL, and more  
+- 🧠 Focus: ML engineering, backend systems, interactive data visualizations  
+- ⚡ Passionate about design, UI polish, and powerful user experiences  
 
 ---
 
-# 🛠 Tech Stack
-
-### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,swift,r,rust,html,css" />
-</p>
-
-### **Frameworks & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,tailwind,vscode,git,github,mysql,sqlite,postman,androidstudio" />
+# 🛠️ **Tech Stack (Animated Icons)**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,swift,r,rust,html,css,wasm&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,tailwind,androidstudio,vscode,git,github,mysql,sqlite,postman,docker&theme=dark" />
 </p>
 
 ---
 
-# 📦 Featured Projects
+# 🚀 **Featured Projects** (Expandable Sections with Animations)
 
 <details>
-<summary><h3>🌤️ California Weather Forecast</h3></summary>
-A sleek, interactive California weather dashboard that visualizes real-time API weather data.
+<summary><h3>🌤️ California Weather Forecast Dashboard</h3></summary>
+<p>Interactive real-time weather dashboard with live API data, dynamic visuals, and sleek UI.</p>
+<img src="https://i.imgur.com/G0HxHfR.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>🕹️ Cosmic Dodger Game</h3></summary>
-A fast-paced arcade-style browser game where players dodge incoming asteroids to survive.
+<p>Retro-inspired arcade browser game featuring asteroid dodging and smooth animations.</p>
+<img src="https://i.imgur.com/OvU5Hbt.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>💹 Crypto Price Tracker</h3></summary>
-A real-time cryptocurrency dashboard with live market data and interactive charts.
+<p>Live cryptocurrency analytics dashboard powered by real-time market APIs.</p>
+<img src="https://i.imgur.com/oQ6OQ51.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>🏎️ Formula 1 Statistics Dashboard</h3></summary>
-A feature-rich F1 statistics site with drivers, teams, circuits, standings, and live racing data.
+<p>Complete F1 analytics platform with standings, drivers, teams, and circuit visualizations.</p>
+<img src="https://i.imgur.com/2dZpZIl.gif" width="500"/>
 </details>
 
 <details>
-<summary><h3>📚 StudyFlow – Study Planner</h3></summary>
-An interactive study planner dashboard that manages tasks, deadlines, and priorities with localStorage.
+<summary><h3>📚 StudyFlow – Intelligent Study Planner</h3></summary>
+<p>Smart study dashboard with task management, filtering, deadlines, and localStorage persistence.</p>
+<img src="https://i.imgur.com/X06ZvY3.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>🧠 Advanced Sentiment Analyzer</h3></summary>
-A modular NLP sentiment engine with sentence/document scoring, batch analysis, and JSON/CSV reporting.
+<p>Full NLP pipeline with lexicons, batch analysis, sentence scoring, JSON/CSV exporting, and CLI tools.</p>
+<img src="https://i.imgur.com/EcO4bX5.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>🌎 Live Earthquake Dashboard</h3></summary>
-A real-time seismic tracker with interactive maps and detailed earthquake event insights.
+<p>Real-time seismic activity tracker with interactive map layers and detailed quake events.</p>
+<img src="https://i.imgur.com/JrLXt8G.gif" width="500"/>
 </details>
 
 <details>
-<summary><h3>🎮 Tic-Tac-Toe with AI</h3></summary>
-A Python Tic-Tac-Toe game powered by an unbeatable Minimax-based AI opponent.
+<summary><h3>🎮 Tic-Tac-Toe with AI (Minimax Algorithm)</h3></summary>
+<p>An unbeatable Tic-Tac-Toe AI powered by Minimax with pruning.</p>
+<img src="https://i.imgur.com/E4Vd1sm.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>⚙️ C++ Data Structures Library</h3></summary>
-A complete C++ data structures library including lists, stacks, queues, trees, graphs, and more.
+<p>Complete C++ data structures collection including lists, stacks, queues, BSTs, heaps, and graphs.</p>
+<img src="https://i.imgur.com/t0QbBBF.gif" width="500"/>
 </details>
 
 <details>
 <summary><h3>📱 MoodLog Mobile App</h3></summary>
-A cross-platform mood-tracking app that logs emotions, trends, and personal insights.
+<p>Cross-platform mobile mood tracking app with trend visualization.</p>
+<img src="https://i.imgur.com/KVjEEA0.gif" width="500"/>
 </details>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 **GitHub Stats (Animated Cards)**
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rezonnn&show_icons=true&theme=tokyonight&count_private=true" />
@@ -102,47 +112,61 @@ A cross-platform mood-tracking app that logs emotions, trends, and personal insi
 
 ---
 
-# 🏆 Achievements
+# 🏆 **Trophies (Auto-Updating)**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rezonnn&theme=tokyonight&no-frame=true&margin-w=20&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rezonnn&theme=tokyonight&no-frame=true&row=1&margin-w=25" />
 </p>
 
 ---
 
-# 🎧 Now Playing on Spotify  
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?username=rezonhanselgautama" alt="Spotify Now Playing" />
-</p>
-
----
-
-# 🐍 Contribution Graph (Snake Animation)
+# 🐍 **Animated Contribution Snake**
 <p align="center">
   <img src="https://github.com/Rezonnn/Rezonnn/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🔗 Portfolio QR Code  
+# 🎧 **Spotify — Now Playing**
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?username=rezonhanselgautama" width="500" />
+</p>
+
+---
+
+# 🌊 **Aesthetic Animated Wave Divider**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
+</p>
+
+---
+
+# 🎨 **Portfolio QR Code**
 <p align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://rezonnn.github.io" />
 </p>
 
 ---
 
-# ✨ Fun Fact  
+# ✨ Fun Fact
 I break my code more often than I break my sleep schedule 😄
 
 ---
 
 # 📫 Connect With Me
-<p align="left">
+
+<p align="center">
   <a href="https://linkedin.com/in/rezonhg"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:rgautama@ucsd.edu"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/Rezonnn"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 <p align="center">🔥 Always building. Always learning. Always leveling up. 🔥</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
+</p>
+
 
 
 <!---
