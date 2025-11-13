@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rezon Hansel Gautama 👋</h1>
+<h1 align="center">Hi, I'm Rezon Gautama 👋</h1>
 <h3 align="center">Data Science + Cognitive Science @ UC San Diego</h3>
 
 <p align="center">
@@ -217,14 +217,6 @@ A mobile mood-tracking app that lets users log emotions, view trends, and reflec
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rezonnn&theme=tokyonight&no-frame=true&row=1&margin-w=25" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Rezonnn/Rezonnn/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
