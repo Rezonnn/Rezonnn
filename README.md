@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rezon Hansel Gautama 👋</h1>
-<h3 align="center">Data Science + Software Engineering @ UC San Diego</h3>
+<h3 align="center">Data Science + Cognitive Science @ UC San Diego</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Data+Scientist+in+Training;Software+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Building+and+Learning" />
